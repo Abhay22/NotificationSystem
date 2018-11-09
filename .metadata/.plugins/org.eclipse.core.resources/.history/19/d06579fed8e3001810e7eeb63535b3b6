@@ -10,4 +10,4 @@ notification.rabbitmq.queue=notification.queue
 smpt.host=smtp.gmail.com
 smpt.port=587
 smpt.username=abhayibm11@gmail.com
-smpt.password=yourpassword
+smpt.password=abhayrose2
